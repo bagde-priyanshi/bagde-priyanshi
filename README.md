@@ -27,6 +27,10 @@ Passionate about **Data Science & AI** — building real projects and learning e
 > Projects built during CODTECH IT Solutions Data Science Internship.
 > Includes ETL pipeline, Deep Learning models, and End-to-End Deployment.
 
+### [Codealpha_ML_Internship](https://github.com/bagde-priyanshi/Codealpha_ML_Internship)
+> Machine Learning internship projects completed during the CodeAlpha Internship Program.
+> Includes practical ML implementations, data preprocessing, model training, and evaluation projects.
+
 ---
 
 ## Currently
